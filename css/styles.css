@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(173, 152, 121);
+}
+
+.negro{
+    background-color: black;
+    height: 12vh;
+    display: flex;
+    justify-content: center;
+}
+
+.blanco{
+    background-color: white;
+    height: 12vh;
+    display: flex;
+    justify-content: center;
+}
